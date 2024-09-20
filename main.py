@@ -1,1 +1,1 @@
-ab123
+print('hello world')
